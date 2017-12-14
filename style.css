@@ -1,0 +1,30 @@
+ body {
+   font-family: Arial, sans-serif;
+  text-align: center;
+ }
+
+#trancheCounter {
+  color: #333333;
+  font-size: 72px;
+  font-weight: 800;
+}
+
+.counter {
+  border: 10px solid #333333;
+  padding: 30px;
+  display: block;
+  float: right;
+  background: yellow;
+}
+
+.controls {
+  display: block;
+  float: left;
+}
+
+#trancheImg {
+  display: none;
+  width: 90px;
+  height: auto;
+  position: relative;
+}
